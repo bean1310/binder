@@ -7,12 +7,4 @@
         xmlns:tb="http://www.hardcodet.net/taskbar"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-
-    <tb:TaskbarIcon x:Name="myNotifyIcon"
-                    Visibility="Visible"
-                    ToolTipText="Fallback ToolTip for Windows xp"
-                    IconSource="/Resources/binder.ico"
-                    MenuActivation="LeftOrRightClick"
-                    PopupActivation="DoubleClick"
-      />
 </Window>
